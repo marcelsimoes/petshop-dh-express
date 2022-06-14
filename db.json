@@ -1,0 +1,56 @@
+{
+    "servicos": [
+        {
+            "id": "1",
+            "nome": "Banho e Tosa",
+            "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quaerat.",
+            "imagem": "https://1.bp.blogspot.com/-Wq2lcq9_a4I/Tc2lLWOkNVI/AAAAAAAABVM/Wao0rm-vWe4/s1600/gatinho-5755.jpg",
+            "preco": "70.00",
+            "ativo": true,
+            "is_delete": true
+        },
+        {
+            "id": "2",
+            "nome": "Consulta veterinária",
+            "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quaerat.",
+            "imagem": "https://guiaanimal.net/uploads/content/image/38084/AdobeStock_163556483.jpeg",
+            "preco": "150.00",
+            "ativo": false
+        },
+        {
+            "id": 3,
+            "nome": "Vacinação",
+            "preco": "120.00",
+            "ativo": true,
+            "imagem": "https://img.olx.com.br/images/14/142298645992912.jpg",
+            "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quaerat."
+        }
+    ],
+    "pets": [],
+    "usuarios": [
+        {
+            "id": "909b2876-7b56-4789-8d12-098bdfc6564b",
+            "nome": "aaa",
+            "email": "marcel@mail.com",
+            "senha": ""
+        },
+        {
+            "id": "c83fe465-7edf-4762-ad81-5d5c240cc5b6",
+            "nome": "aaa",
+            "email": "marcelsimoesalexandre@outlook.com",
+            "senha": "11111"
+        },
+        {
+            "id": "575cc14a-e33b-41f5-8816-0d5ccbd1b472",
+            "nome": "aaaa",
+            "email": "fernandaalmeidaegg@gmail.com",
+            "senha": "45454545"
+        },
+        {
+            "id": "7b801fb0-2f46-4c7a-a404-adf3b2af3128",
+            "nome": "Marcela Raquel",
+            "email": "marcelaraquel@mail.com",
+            "senha": "$2a$10$xXIiDei/Qx0kle/sjcd12.1XDLiUCSery2iCSbLaqss0KCEvFTLX6"
+        }
+    ]
+}
